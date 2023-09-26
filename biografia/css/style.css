@@ -1,0 +1,12 @@
+body,td{
+    margin-left: 200px;
+    margin-right: 200px;
+   font-size: large;
+}
+h1,nav{
+    text-align: center;
+}
+h1,h2{
+    background-color:black;
+    color: white;
+}
